@@ -1,0 +1,7 @@
+{
+    "skyboxes": [
+        { "label": "Studio Broadway Hall", "url": "./skybox/photo_studio_broadway_hall_2k.hdr" }
+    ],
+
+    "defaultSkybox": "./skybox/photo_studio_broadway_hall_2k.hdr"
+}
